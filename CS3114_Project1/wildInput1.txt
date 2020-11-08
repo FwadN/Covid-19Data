@@ -1,0 +1,5 @@
+load head_100_random_30.csv
+search 
+search VA 1
+summarydata
+dumpdata

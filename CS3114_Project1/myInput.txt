@@ -1,0 +1,5 @@
+load myExcel.cs
+search VA 1
+load myExcel2.csv
+search VA 2
+search 08/19/2020
